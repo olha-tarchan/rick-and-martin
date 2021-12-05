@@ -14,7 +14,12 @@ const CharacterListComponent = () => {
     useEffect(() => {
         fetch(API_URL)
             .then(res => res.json())
-            .then(data => setMaxPages(data.info.pages));
+            .then(data => {
+                setMaxPages(data.info.pages);
+                return data;
+            })
+            .then(data => setData(data.results))
+        ;
     }, [])
 
     useEffect(() => {
