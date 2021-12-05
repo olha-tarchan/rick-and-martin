@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/rick-and-martin/static/css/main.efc23a97.chunk.css",
-    "main.js": "/rick-and-martin/static/js/main.1b63a64c.chunk.js",
-    "main.js.map": "/rick-and-martin/static/js/main.1b63a64c.chunk.js.map",
+    "main.css": "/rick-and-martin/static/css/main.a15b905e.chunk.css",
+    "main.js": "/rick-and-martin/static/js/main.02aa3c2e.chunk.js",
+    "main.js.map": "/rick-and-martin/static/js/main.02aa3c2e.chunk.js.map",
     "runtime-main.js": "/rick-and-martin/static/js/runtime-main.a00a3f64.js",
     "runtime-main.js.map": "/rick-and-martin/static/js/runtime-main.a00a3f64.js.map",
     "static/js/2.2ba74220.chunk.js": "/rick-and-martin/static/js/2.2ba74220.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.97f16c9b.chunk.js": "/rick-and-martin/static/js/3.97f16c9b.chunk.js",
     "static/js/3.97f16c9b.chunk.js.map": "/rick-and-martin/static/js/3.97f16c9b.chunk.js.map",
     "index.html": "/rick-and-martin/index.html",
-    "static/css/main.efc23a97.chunk.css.map": "/rick-and-martin/static/css/main.efc23a97.chunk.css.map",
+    "static/css/main.a15b905e.chunk.css.map": "/rick-and-martin/static/css/main.a15b905e.chunk.css.map",
     "static/js/2.2ba74220.chunk.js.LICENSE.txt": "/rick-and-martin/static/js/2.2ba74220.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a00a3f64.js",
     "static/js/2.2ba74220.chunk.js",
-    "static/css/main.efc23a97.chunk.css",
-    "static/js/main.1b63a64c.chunk.js"
+    "static/css/main.a15b905e.chunk.css",
+    "static/js/main.02aa3c2e.chunk.js"
   ]
 }
